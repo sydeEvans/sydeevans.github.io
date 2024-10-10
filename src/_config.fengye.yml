@@ -30,7 +30,7 @@ year_align_center: false
 favicon: /images/favicon-32x32.png
 
 # Portrait
-portrait: https://avatars.githubusercontent.com/u/15522856?v=4
+portrait: https://file-proxy.deno.dev/https://avatars.githubusercontent.com/u/15522856?v=4
 show_profile_image: true
 
 # logo
