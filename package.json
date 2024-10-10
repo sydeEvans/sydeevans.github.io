@@ -1,4 +1,8 @@
 {
+	"scripts": {
+		"prebuild": "node ./scripts/pull.js",
+		"build": "cd src && npm run build"
+	},
 	"dependencies": {
 		"axios": "^1.7.7"
 	},
