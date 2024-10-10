@@ -2,7 +2,7 @@ const fs = require('fs').promises;
 const path = require('path');
 const axios = require('axios');
 
-const FLATNOTES_URL = 'https://note.223324.xyz:8888';
+const FLATNOTES_URL = process.env.FLATNOTES_URL;
 const FLATNOTES_API_URL = FLATNOTES_URL + '/api';
 const OUTPUT_DIR = path.join(__dirname, '..', 'src', 'source', '_posts');
 
