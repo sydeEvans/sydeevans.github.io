@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: "Allen Jax Blog"
-subtitle: "!"
+title: "Allen Jax"
+#subtitle: "!"
 description: |
-  NLP Ph.D. at Tsinghua University (THUNLP lab), advised by Prof. Zhiyuan Liu. Previously received a Bachelor's and Master's degree at Tsinghua University. Doing research about long-context language models and knowledge updating.
+  技术、分享.
 keywords:
   - website
 author: Allen Jax

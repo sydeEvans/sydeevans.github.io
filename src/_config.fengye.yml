@@ -1,44 +1,37 @@
 # Header
 nav:
-  # Home: /index
   posts:
     path: ./archives
     icon: mingcute:inbox-fill
     show_text: true
-  publications:
-    path: ./publications
-    icon: mingcute:science-fill
-    show_text: true
-  # Projects: /projects
   about:
     path: ./about
     icon: mingcute:user-info-fill
     show_text: true
-  categories:
-    path: ./categories
-    icon: mingcute:classify-2-fill
-    show_icon: true
-  tags:
-    path: ./tags
-    icon: mingcute:tag-fill
-    show_icon: true
-  home:
-    path: ./index
-    icon: mingcute:home-2-fill
-    show_icon: true
+#  categories:
+#    path: ./categories
+#    icon: mingcute:classify-2-fill
+#    show_icon: true
+#  tags:
+#    path: ./tags
+#    icon: mingcute:tag-fill
+#    show_icon: true
+#  home:
+#    path: ./index
+#    icon: mingcute:home-2-fill
+#    show_icon: true
 
-email: "chenyingfa1999@qq.com"
-my_location: Beijing, China
-cv_path: /pdf/cv.pdf
-cv_last_update_date: Aug, 2024
-show_features_posts: true
+email: "evan.wangjue@gmail.com"
+my_location: Hangzhou, China
+show_features_posts: false
 year_align_center: false
 
 # favicon
 favicon: /images/favicon-32x32.png
 
 # Portrait
-portrait: /images/portrait.png
+portrait: https://avatars.githubusercontent.com/u/15522856?v=4
+show_profile_image: true
 
 # logo
 logo: /images/logo.svg
@@ -46,14 +39,8 @@ logo: /images/logo.svg
 # links
 links:
   Github:
-    link: https://www.github.com/chen-yingfa
+    link: https://www.github.com/sydeevans
     icon: mingcute:github-fill
-  ZhiHu:
-    link: https://www.zhihu.com/people/chen-ying-fa-34
-    icon: ri:zhihu-line
-  Twitter:
-    link: https://www.twitter.com/DonnyChan123
-    icon: mingcute:social-x-fill
   # Weibo:
 
 # analytics
