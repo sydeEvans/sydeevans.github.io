@@ -1,13 +1,13 @@
 # Header
 nav:
-  posts:
-    path: ./archives
-    icon: mingcute:inbox-fill
-    show_text: true
-  about:
-    path: ./about
-    icon: mingcute:user-info-fill
-    show_text: true
+#  posts:
+#    path: ./archives
+#    icon: mingcute:inbox-fill
+#    show_text: true
+#  about:
+#    path: ./about
+#    icon: mingcute:user-info-fill
+#    show_text: true
 #  categories:
 #    path: ./categories
 #    icon: mingcute:classify-2-fill
@@ -21,8 +21,8 @@ nav:
 #    icon: mingcute:home-2-fill
 #    show_icon: true
 
-email: "evan.wangjue@gmail.com"
-my_location: Hangzhou, China
+#email: "evan.wangjue@gmail.com"
+#my_location: Hangzhou, China
 show_features_posts: false
 year_align_center: false
 
